@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me**
 
-Full-stack Developer with experience in Python, JavaScript, and Java, specializing in web applications and innovative solutions. Proficient in Flask, HTML, CSS, Git, with expertise in SQL databases.
+Full-stack Developer with experience in Python, JavaScript, specializing in web applications and innovative solutions. Proficient in Flask, HTML, CSS, Git, with expertise in SQL databases.
 
 I hold a Technical Degree in Programming and Systems Analysis and I'm currently pursuing a Bachelor’s in Computer Engineering, continuously expanding my knowledge and strengthening my software development skills.
 - 🌱 I’m currently learning ...
@@ -42,8 +42,3 @@ I hold a Technical Degree in Programming and Systems Analysis and I'm currently 
 
 
 
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=SebaPobando&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=SebaPobando&theme=material-palenight)](https://github.com/valentinawerle)
-</div>
