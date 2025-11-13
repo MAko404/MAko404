@@ -38,8 +38,6 @@ I hold a Technical Degree in Programming and I'm currently pursuing a Bachelorâ€
 </a>
 
 ### ðŸŽ§ Now Playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7ipkz4xdthcgpqyaiuvohbp64&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31kubvldsksxrziy6u4zhibl5qdm?nd=1&dlsi=b011420ad6554040)
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kubvldsksxrziy6u4zhibl5qdm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31kubvldsksxrziy6u4zhibl5qdm)
 
 
