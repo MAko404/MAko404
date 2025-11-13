@@ -37,7 +37,6 @@ I hold a Technical Degree in Programming and I'm currently pursuing a Bachelorâ€
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-
 ### ðŸŽ§ Now Playing on Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kubvldsksxrziy6u4zhibl5qdm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31kubvldsksxrziy6u4zhibl5qdm)
 
