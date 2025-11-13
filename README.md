@@ -37,8 +37,9 @@ I hold a Technical Degree in Programming and I'm currently pursuing a Bachelor�
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-## Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7ipkz4xdthcgpqyaiuvohbp64&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31kubvldsksxrziy6u4zhibl5qdm?si=7322b110a53a45e1)
+
+### 🎧 Now Playing on Spotify
+[![Spotify](https://github-readme-spotify-status.vercel.app/api/spotify)](https://open.spotify.com/user/31kubvldsksxrziy6u4zhibl5qdm)
 
 
 
