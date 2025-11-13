@@ -6,7 +6,7 @@
 
 Full-stack Developer with experience in Python, JavaScript, specializing in web applications and innovative solutions. Proficient in Flask, HTML, CSS, Git, with expertise in SQL databases.
 
-I hold a Technical Degree in Programming and Systems Analysis and I'm currently pursuing a Bachelor’s in Computer Engineering, continuously expanding my knowledge and strengthening my software development skills.
+I hold a Technical Degree in Programming and I'm currently pursuing a Bachelor’s in Computer Engineering, continuously expanding my knowledge and strengthening my software development skills.
 - 🌱 I’m currently learning ...
   - Django
   - Angular
